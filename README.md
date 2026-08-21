@@ -144,6 +144,9 @@ The source code provided in this repository contains the encryption and decrypti
 
 If you use this implementation in academic research, please cite the associated research paper.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22041975.svg)](https://doi.org/10.5281/zenodo.22041975)
+
+
 The Zenodo DOI will be added to this section after the repository is archived and a DOI is assigned.
 
 ## License
